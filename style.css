@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    color:#b9b9b9; 
+    font-size: 25px;
+    letter-spacing: -0.5px;
+}
+
+/*Center video content*/
+video {
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    color:#efefef; 
+    font-size: 70px;
+    letter-spacing: -2px;
+}
+
+h2 {
+    color:#efefef; 
+    font-size: 50px;
+    letter-spacing: -2px;
+}
+
+#appLink {
+    color: #36c5e4;
+    font-size: 18px;
+    padding-bottom: 50px;
+}
+
+#copyright {
+    padding-top: 50px;
+}
