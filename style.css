@@ -17,6 +17,7 @@ h1 {
     color:#efefef; 
     font-size: 70px;
     letter-spacing: -2px;
+    line-height: 1em;
 }
 
 h2 {
@@ -25,12 +26,14 @@ h2 {
     letter-spacing: -2px;
 }
 
+/*App links, drive nowhere -- app not ready*/
 #appLink {
     color: #36c5e4;
     font-size: 18px;
     padding-bottom: 50px;
 }
 
+/*Company copyright in footer*/
 #copyright {
     padding-top: 50px;
 }
