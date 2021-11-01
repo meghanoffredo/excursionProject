@@ -16,6 +16,7 @@ video {
     display: block;
     margin: auto;
     height: auto;
+    overflow-x: none;
 }
 
 h1 {
