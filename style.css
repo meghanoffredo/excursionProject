@@ -10,6 +10,10 @@ body {
     overflow-x: hidden;
 }
 
+* {
+    overflow-x: hidden;
+}
+
 /*Center video content*/
 video {
     display: block;
