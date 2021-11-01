@@ -7,7 +7,7 @@ body {
     letter-spacing: -0.5px;
     margin: auto;
     height: 100%;
-    overflow-x: none;
+    overflow-x: hidden;
 }
 
 /*Center video content*/
@@ -15,7 +15,7 @@ video {
     display: block;
     margin: auto;
     height: auto;
-    overflow-x: none;
+    overflow-x: hidden;
 }
 
 h1 {
