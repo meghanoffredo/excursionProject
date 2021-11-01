@@ -5,9 +5,8 @@ body {
     color:#b9b9b9; 
     font-size: 25px;
     letter-spacing: -0.5px;
-    width: 80%;
+    margin: auto;
     height: 100%;
-    margin: 5% auto;
     overflow-x: none;
 }
 
