@@ -5,35 +5,48 @@ body {
     color:#b9b9b9; 
     font-size: 25px;
     letter-spacing: -0.5px;
+    width: 80%;
+    height: 100%;
+    margin: 5% auto;
 }
 
 /*Center video content*/
 video {
     display: block;
     margin: 0 auto;
+    height: auto;
 }
 
 h1 {
     color:#efefef; 
-    font-size: 70px;
-    letter-spacing: -2px;
-    line-height: 1em;
+    font-size: 8vh;
+    line-height: .9em;
+    text-align: center;
 }
 
 h2 {
     color:#efefef; 
-    font-size: 50px;
-    letter-spacing: -2px;
+    font-size: 2.5vh;
+}
+
+.tents {
+    width: 100%;
+    height: auto;
+}
+
+.icon {
+    height: auto;
 }
 
 /*App links, drive nowhere -- app not ready*/
 #appLink {
     color: #36c5e4;
-    font-size: 18px;
+    font-size: 3vh;
     padding-bottom: 50px;
 }
 
 /*Company copyright in footer*/
 #copyright {
     padding-top: 50px;
+    font-size: 2.5vh;
 }
