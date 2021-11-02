@@ -13,6 +13,7 @@ body {
 * {
     overflow-x: hidden;
     margin-left: 0;
+    margin-right: 0;
 }
 
 /*Center video content*/
@@ -38,6 +39,7 @@ h2 {
 .tents {
     width: 100%;
     height: auto;
+    margin: auto;
 }
 
 .icon {
